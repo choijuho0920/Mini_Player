@@ -8,7 +8,6 @@ import random
 from PIL import Image, ImageTk
 from io import BytesIO
 
-# 기존 import 아래에 이 코드를 추가하세요
 import sys
 import ctypes
 import os
