@@ -1,0 +1,8 @@
+# .gitignore 내용
+__pycache__/
+*.spec
+build/
+dist/
+*.exe
+.vscode/
+venv/
